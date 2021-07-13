@@ -1,2 +1,2 @@
 # Micropython-pi-pico
-code for project
+project file for learning
