@@ -1,7 +1,5 @@
 from machine import Pin
 import time
-import utime 
-import ssd1306
 
 button = Pin(1, Pin.IN, Pin.PULL_DOWN)
 led = machine.Pin(28, machine.Pin.OUT)
