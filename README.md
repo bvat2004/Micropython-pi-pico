@@ -1,2 +1,2 @@
-# Micropython-pi-pico
+# Micropython PICO
 project file for learning
